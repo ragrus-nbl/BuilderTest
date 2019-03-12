@@ -1,2 +1,2 @@
-@include once "./libDependency.nut"
+@include once __PATH__ + "/libDependency.nut"
 
